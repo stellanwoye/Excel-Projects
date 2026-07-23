@@ -8,20 +8,13 @@ An interactive Excel dashboard analyzing bike purchase behavior across 1,026 cus
 
 **Key metrics tracked:** Total Bikes Purchased (495), Total Customers (1,026), Average Income ($56,208.58)
 
-### Dashboard Overview
-<img width="1080" height="713" alt="Excel4" src="https://github.com/user-attachments/assets/ea537330-e345-4445-800e-10b076ceca94" />
-<img width="1080" height="710" alt="Excel6" src="https://github.com/user-attachments/assets/d3d790bd-7f5b-4a3b-8667-41026625a036" />
+### Dashboard Overview & Pivot Table
+<img width="1280" height="853" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/29701830-e225-4c42-8663-bd8e58f20020" />
 
 
-### Cleantable
-<img width="1080" height="703" alt="Excel2" src="https://github.com/user-attachments/assets/ea54e307-2e0c-4698-b416-3cc0a1e0cc18" />
 
-### Insights
-<img width="1080" height="619" alt="Excel9" src="https://github.com/user-attachments/assets/6aacac62-97a2-42d5-9367-840c2bdd7ee6" />
-
-### Dashboard
-<img width="1080" height="688" alt="Excel7" src="https://github.com/user-attachments/assets/f6ca9138-6df0-4b27-bbd8-0ce7483e685c" />
-<img width="1080" height="719" alt="Excel8" src="https://github.com/user-attachments/assets/6e9e5018-00ea-436a-ad5c-60ee2a93bb1c" />
+### Insights & Recommendations
+<img width="1280" height="853" alt="Excel Insights" src="https://github.com/user-attachments/assets/923b391f-8c1e-42ed-8aa4-e655dec36121" />
 
 ## Process
 - Cleaned raw customer data (handled inconsistent entries, formatted currency and categorical fields)
